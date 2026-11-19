@@ -1,12 +1,12 @@
 # STUDENT DETAILS
 
-**Name:** YAZHINI.E.M
+**Name:** VINIL KUMAR S
 
-**Register Number:** 192511165
+**Register Number:** 192511226
 
 **Course Name:** Java Programming
 
-**Course Code:** CSA0901
+**Course Code:** CSA0902
 
 ---
 
