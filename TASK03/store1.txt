@@ -1,3 +1,0 @@
-
-Store A,1000
-Store B,2000
