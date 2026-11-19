@@ -1,9 +1,9 @@
 # CO1 Java Assignment 1
 ## Campus Smart-Parking System
 
-**Student Name:** [Enter your name]  
-**Register Number:** [Enter your register number]  
-**GitHub Link:** [Paste your repository link]  
+**Student Name:** [VINIL KUMAR .S]  
+**Register Number:** [192511226]  
+**GitHub Link:** [https://github.com/VINIL2307/CSA0902--JAVA-ASSIGNMENTS]  
 **Java Version:** JDK 8 or later
 
 > This is a simple student-level explanation. Read the answers, run the programs, and make sure you can explain them during the viva.
